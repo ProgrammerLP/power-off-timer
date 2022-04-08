@@ -1,0 +1,11 @@
+C:\Users\Luke\source\repos\PowerOff_Timer\PowerOff_Timer\bin\Debug\PowerOff_Timer.exe.config
+C:\Users\Luke\source\repos\PowerOff_Timer\PowerOff_Timer\bin\Debug\PowerOff_Timer.exe
+C:\Users\Luke\source\repos\PowerOff_Timer\PowerOff_Timer\bin\Debug\PowerOff_Timer.pdb
+C:\Users\Luke\source\repos\PowerOff_Timer\PowerOff_Timer\obj\Debug\PowerOff_Timer.csproj.AssemblyReference.cache
+C:\Users\Luke\source\repos\PowerOff_Timer\PowerOff_Timer\obj\Debug\PowerOff_Timer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luke\source\repos\PowerOff_Timer\PowerOff_Timer\obj\Debug\PowerOff_Timer.Form1.resources
+C:\Users\Luke\source\repos\PowerOff_Timer\PowerOff_Timer\obj\Debug\PowerOff_Timer.Properties.Resources.resources
+C:\Users\Luke\source\repos\PowerOff_Timer\PowerOff_Timer\obj\Debug\PowerOff_Timer.csproj.GenerateResource.cache
+C:\Users\Luke\source\repos\PowerOff_Timer\PowerOff_Timer\obj\Debug\PowerOff_Timer.csproj.CoreCompileInputs.cache
+C:\Users\Luke\source\repos\PowerOff_Timer\PowerOff_Timer\obj\Debug\PowerOff_Timer.exe
+C:\Users\Luke\source\repos\PowerOff_Timer\PowerOff_Timer\obj\Debug\PowerOff_Timer.pdb
